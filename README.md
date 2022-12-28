@@ -1,5 +1,5 @@
 ### Hi everyone!
-### I'm an applied math Phd student at Gran Sasso Science Institute in L'Aquila, Italy. My main interest is in numerical methods for Machine and deep learning.
+### I'm an applied math Phd student at Gran Sasso Science Institute in L'Aquila, Italy. My main interest is in numerical methods for machine and deep learning.
 ### I’m currently working on Dynamical low-rank approaches to train neural networks.
 ### You can reach me at emanuele.zangrando@gssi.it
 <!--
